@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 My name is Victor Nunes
+
+- 🔭 I am currently working as FullStack Developer at [Inventione](http://inventione.com.br/) ([Filazero](https://filazero.net/) and [Cloudmidia](https://cloudmidia.com/))
+- 🌱 I’m currently learning GoLang and Haskell
+- 💬 Ask me about NodeJs, REST API, Free Software, Maths, Physics and Electronics.
+- ⚡ Fun fact: I am a student of Electrical Engineering and Astrophysics.
 
 <!--
 **VicSanNun/VicSanNun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

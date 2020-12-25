@@ -5,6 +5,10 @@
 - 💬 Ask me about NodeJs, REST API, Free Software, Maths, Physics and Electronics.
 - ⚡ Fun fact: I am a student of Electrical Engineering and Astrophysics.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VicSanNun)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicSanNun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **VicSanNun/VicSanNun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

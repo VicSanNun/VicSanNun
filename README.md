@@ -3,7 +3,7 @@
 - 🔭 My last work was as a FullStack Developer at [Inventione](http://inventione.com.br/) ([Filazero](https://filazero.net/) and [Cloudmidia](https://cloudmidia.com/)).
 - 🌱 I'm currently focused on my undergraduate courses.
 - 💬 Ask me about NodeJs, REST API, Free Software, Maths, Physics and Electronics.
-- ⚡ Fun fact: I am a student of Astrophysics.
+- ⚡ Fun fact: I am a student of Electrical Engineering and Astrophysics.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VicSanNun)](https://github.com/anuraghazra/github-readme-stats)
 

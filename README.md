@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Victor Nunes
 
-- 🔭 My last work was as a FullStack Developer at [Inventione](http://inventione.com.br/) ([Filazero](https://filazero.net/) and [Cloudmidia](https://cloudmidia.com/)).
+- 🔭 I'm Business Analytics I at [Xp Inc](https://www.xpinc.com/).
 - 🌱 I'm currently focused on my undergraduate courses.
-- 💬 Ask me about NodeJs, REST API, Free Software, Maths, Physics and Electronics.
+- 💬 Ask me about NodeJs, Python, REST API, Free Software, Maths, Physics and Data.
 - ⚡ Fun fact: I am a student of Electrical Engineering and Astrophysics.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VicSanNun)](https://github.com/anuraghazra/github-readme-stats)

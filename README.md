@@ -3,7 +3,7 @@
 - 🔭 I'm Business Analytics I at [Xp Inc](https://www.xpinc.com/).
 - 🌱 I'm currently focused on my undergraduate courses.
 - 💬 Ask me about NodeJs, Python, REST API, Free Software, Maths, Physics and Data.
-- ⚡ Fun fact: I am a student of Electrical Engineering and Astrophysics.
+- ⚡ Fun fact: I am a student of Astrophysics.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VicSanNun)](https://github.com/anuraghazra/github-readme-stats)
 

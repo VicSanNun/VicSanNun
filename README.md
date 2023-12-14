@@ -12,7 +12,8 @@
 ### Portfolio
 1. [Explorando Machine Learning na reconstrução da Taxa de Expansão do Universo, H(z).](https://github.com/VicSanNun/HzRegression/blob/main/main.ipynb)
   * Aqui eu exploro 5 abordagens utilizando Processos Gaussianos e MCMC na reconstrução de H(z).
-
+2. [Filtros Digitais em Finanças](https://github.com/VicSanNun/Filter_in_Finance/blob/main/main.ipynb)
+ * Aqui blablablabla
 <!--
 **VicSanNun/VicSanNun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

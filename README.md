@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Victor Nunes
 
-- 🔭 I'm Business Analytics I at [Xp Inc](https://www.xpinc.com/).
+I'm a cross-disciplinary professional with experience in Data, Software Development and Quantitative Finance.
+
+- 🔭 I'm Quantitative Developer at [Xp Inc](https://www.xpinc.com/).
 - 🌱 I am currently focused on studying Data Science and Quantitative Finance.
 - 💬 Ask me about Python, REST API, Free Software, Maths, Physics, Music and Data.
 - ⚡ Fun fact: For a long time, I studied two degrees simultaneously, Astrophysics and Electrical Engineering (I really don't recommend it).

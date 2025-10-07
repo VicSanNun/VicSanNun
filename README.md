@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Victor Nunes
 
-I'm a cross-disciplinary professional with a strong foundation in Software Engineering, Quantitative Modeling (especially Quant Finance), and Machine Learning.
+I'm an Astrophysicist and Engineer with a strong foundation in Software Engineering, Quantitative Modeling (especially Quant Finance), and Machine Learning.
 
 - 🔭 I'm Quantitative Developer at [XP Inc](https://www.xpinc.com/).
 - 🌱 I am currently focused on improving my skills in ML/AI, Quantitative Finance and HPC (High Performance Computing).

@@ -18,7 +18,7 @@ With a strong foundation in analytical thinking and a passion for solving comple
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VicSanNun)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicSanNun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicSanNun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Portfolio
 1. [Explorando Machine Learning na reconstrução da Taxa de Expansão do Universo, H(z).](https://github.com/VicSanNun/HzRegression/blob/main/main.ipynb)
